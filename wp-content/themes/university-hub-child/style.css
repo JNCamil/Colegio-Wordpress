@@ -1,0 +1,23 @@
+/*
+ Theme Name:   University Hub Child
+ Theme URI:    https://themepalace.com/instructions/themes/university-hub/
+ Description:  University Hub Child Theme
+ Author:       Theme Palace
+ Author URI:   https://themepalace.com/
+ Template:     university-hub
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  university-hub-child
+*/
+
+
+@import url("../university-hub/style.css");
+
+/* =Aquí empieza la personalización de tu tema
+-------------------------------------------------------------- */
+
+body{
+background-color:black;
+}
